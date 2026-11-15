@@ -6,7 +6,7 @@ authors = [
 ]
 classifiers = [
   # Get the list of trove classifiers here: https://pypi.org/classifiers/
-  "Development Status :: 1 - Planning",
+  "Development Status :: 4 - Beta",
   "Natural Language :: English",
   "Operating System :: OS Independent",
   "Programming Language :: Python :: 3",  # pyprojkit-managed
@@ -24,7 +24,7 @@ license-files = ["LICENSE"]
 name = "alchemizer"
 readme = "README.md"
 requires-python = ">=3.12,<4.0"  # pyprojkit-managed
-version = "0.1.1"
+version = "0.2.1"
 
 [project.urls]
 homepage = "https://github.com/mm21/alchemizer"
