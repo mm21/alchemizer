@@ -1,4 +1,7 @@
-**/__pycache__
-.pytest_cache
+__cache__
+__out__
+__pycache__
+.mypy_cache
+.venv
 build
 dist
